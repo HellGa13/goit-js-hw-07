@@ -1,4 +1,4 @@
-const registerForm = document.querySelector('.form');
+const registerForm = document.querySelector('.login-form');
 registerForm.addEventListener("submit", handleSubmit);
 
 function handleSubmit(event) {
